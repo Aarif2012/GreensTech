@@ -6,6 +6,11 @@ public class GreensTech {
 	System.out.println("greensOmr");
 
 }
+	
+	private void greensRama() {
+		System.out.println("greensOmr");
+
+	}
 	private void greensAdayar() {
 		System.out.println("greensAdayar");
 
@@ -20,5 +25,6 @@ public static void main(String[] args) {
 	g.greensAdayar();
 	g.greensomr();
 	g.greensTambaram();
+	g.greensRama();
 }
 }
